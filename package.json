@@ -1,0 +1,29 @@
+{
+  "name": "repo-motivator",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A tool to automate GitHub milestone tracking and motivation using Pulumi and Octokit",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node --experimental-specifier-resolution=node dist/index.js",
+    "dev": "tsc && node --experimental-specifier-resolution=node dist/index.js",
+    "ts-start": "ts-node-esm index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "typescript": "^5.4.3",
+    "ts-node": "^10.9.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@octokit/rest": "^21.1.1",
+    "@pulumi/github": "^6.7.0",
+    "@pulumi/pulumi": "^3.160.0",
+    "dotenv": "^16.4.7"
+  }
+}
