@@ -66,7 +66,7 @@ When the program is executed, it will scan all the repositories defined by the u
 
 ## Support
 
-If you have any questions or need assistance, our support team is ready to help. Contact me via email at phanquangminhlong@gmail.com or reach out on my social media.
+If you have any questions or need assistance, I am ready to help. Contact me via email at phanquangminhlong@gmail.com or reach out on my social media.
 
 Hope you have a fantastic time exploring this amazing tool!
 
