@@ -74,6 +74,7 @@ Hope you have a fantastic time exploring this amazing tool!
 ## Useful Links
 
 🌟 Dev.to blog: https://dev.to/minhlong2605/github-milestone-motivator-an-innovative-idea-from-pulumi-intriguing-challenge-ej2
+
 📣 Dev Community shared this on X (fka Twitter) – 3,770+ views as of April 2025: https://x.com/ThePracticalDev/status/1911558282033983664
 
 ---
